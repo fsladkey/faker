@@ -5,7 +5,7 @@ This fork of the Faker gem adds a new module Faker::AppAcademy.
 Installing
 ----------
 ```bash
-gem install faker
+gem install faker-1.6.1.gem
 ```
 
 ##Usage
