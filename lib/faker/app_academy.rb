@@ -6,10 +6,6 @@ module Faker
         fetch('app_academy.cat')
       end
 
-      def dog
-        fetch('app_academy.dog')
-      end
-
       def person
         fetch('app_academy.person')
       end

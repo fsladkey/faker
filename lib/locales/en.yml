@@ -201,8 +201,7 @@ en:
       genre: ['Classic', 'Comic/Graphic Novel', 'Crime/Detective', 'Fable', 'Fairy tale', 'Fanfiction', 'Fantasy', 'Fiction narrative', 'Fiction in verse', 'Folklore', 'Historical fiction', 'Horror', 'Humor', 'Legend', 'Metafiction', 'Mystery', 'Mythology', 'Mythopoeia', 'Realistic fiction', 'Science fiction ', 'Short story', 'Suspense/Thriller', 'Tall tale', 'Western', 'Biography/Autobiography', 'Essay', 'Narrative nonfiction', 'Speech', 'Textbook', 'Reference book']
 
     app_academy:
-      cat: ["Sennacy", "Breakfast", "Markov", "Curie", "Chester", "Dante", "Felix", "Pepper"]
-      dog: ["Firetrux", "Bailey", "Ulysses"]
+      cat: ["Sennacy", "Breakfast", "Markov", "Curie", "Chester"]
       person: ["Ned Ruggeri", "Kush Patel", "Jonathan Tamboer", "Tommy Duek", "Carl Baron", "Lily Riopelle", "Fred Sladkey", "Leen van Besien", "Asher Abramson", "Jonathan Wolverton"]
       technology: ["Ruby", "Javascript", "SQL", "Rails", "React"]
       say_something_app_academy: ["You can do it!", "Let's look it up in the docs", "Why don't we use the debugger?", "Good mooorrrrrning pod!", "Lunch time, everybody!", "Break time, everybody!", "Yep yep yep!"]
